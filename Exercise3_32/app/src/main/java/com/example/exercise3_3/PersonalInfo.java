@@ -4,11 +4,13 @@ public class PersonalInfo {
     private String name_ = "Not Available";
     private String description_ = "Not Available";
     private Integer id_ = 0;
+    public int imageResourceId;
 
-    public PersonalInfo(String name, String description, Integer id )
+    public PersonalInfo(String name, String description, int imgResourceId, Integer id )
     {
         this.name_ = name;
         this.description_ = description;
+        this.imageResourceId = imgResourceId;
         this.id_ = id;
     }
 
