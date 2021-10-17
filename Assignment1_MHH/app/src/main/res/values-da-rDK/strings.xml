@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Opgave1_MHH</string>
+    <string name="txtYear">År:</string>
+    <string name="txtGenre">Genre:</string>
+    <string name="txtImdb">Imdb Vurdering:</string>
+    <string name="txtUserRating">Bruger Vurdering:</string>
+    <string name="txtNote">Bruger Note:</string>
+    <string name="btnBack">TILBAGE</string>
+    <string name="btnRate">VURDER</string>
+    <string name="txtDescription">Beskrivelse:</string>
+    <string name="btnExit">AFSLUT</string>
+    <string name="myRating">Min Vurdering:</string>
+    <string name="myNotes">Min Note:</string>
+    <string name="btnCancel">ANNULER</string>
+    <string name="btnOK">OK</string>
+</resources>

@@ -30,7 +30,7 @@ public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.PersonView
         personList = lists;
         notifyDataSetChanged();
     }
-
+    // DU ER NÅET HERTIL ___AD_AS_DS_DA_D_SAED_AS_DA_SD_
     @NonNull
     @Override
     public PersonViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType)

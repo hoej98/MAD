@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Assignment1_MHH</string>
+    <string name="txtYear">Year:</string>
+    <string name="txtGenre">Genre:</string>
+    <string name="txtImdb">Imdb Rating:</string>
+    <string name="txtUserRating">User Rating:</string>
+    <string name="txtNote">User note:</string>
+    <string name="txtDescription">Description:</string>
+    <string name="btnBack">BACK</string>
+    <string name="btnRate">RATE</string>
+    <string name="btnExit">EXIT</string>
+    <string name="myRating">My Rating:</string>
+    <string name="myNotes">My Note:</string>
+    <string name="btnCancel">CANCEL</string>
+    <string name="btnOK">OK</string>
 </resources>

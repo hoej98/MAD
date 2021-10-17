@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Assignment1_MHH">
         <activity
+            android:name=".EditActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DetailsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ListActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
